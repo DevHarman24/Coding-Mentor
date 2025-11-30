@@ -1,0 +1,7 @@
+{
+  "name": "CodeCompanion - B.Tech Mentor",
+  "description": "A conversational AI mentor for engineering students. Use your voice to discuss DSA, placements, and college life with an empathetic senior.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
